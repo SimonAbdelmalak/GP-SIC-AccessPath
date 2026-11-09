@@ -1,0 +1,32 @@
+place_id,name,category,city,address,latitude,longitude,rating,step_free_entrance,wheelchair_ramp,elevator,accessible_restroom,accessible_parking,braille_signage,wide_doorways,date_added
+P001,Nile View Cafe,Cafe,Cairo,"12 Corniche El Nile St, Maadi",29.9602,31.2569,4.3,True,True,False,True,True,False,True,2025-09-14
+P002,Al Salam Specialized Hospital,Hospital,Cairo,"45 Hassan Maamoun St, Nasr City",30.0561,31.3301,4.1,True,True,True,True,True,True,True,2025-09-14
+P003,Zamalek Garden Park,Park,Cairo,"8 Ahmed Heshmat St, Zamalek",30.0626,31.2197,4.6,True,True,False,True,False,False,True,2025-09-20
+P004,Downtown Heritage Museum,Museum,Cairo,"21 Talaat Harb St, Downtown",30.0478,31.2394,4.4,False,True,True,True,False,True,False,2025-10-02
+P005,Cairo Central Library,Library,Cairo,"3 Tahrir Square, Downtown",30.0444,31.2357,4.0,False,False,False,False,False,False,False,2025-10-05
+P006,Heliopolis Plaza Mall,Shopping Mall,Cairo,"90 El Hegaz St, Heliopolis",30.091,31.3225,4.2,True,True,True,True,True,False,True,2025-10-11
+P007,Garden City Metro Station,Transport Station,Cairo,"Garden City Square, Garden City",30.037,31.231,3.6,True,False,True,False,False,True,False,2025-10-18
+P008,Abbasia Grill House,Restaurant,Cairo,"17 El Khalifa El Maamoun St, Abbasia",30.072,31.28,3.8,False,False,False,False,False,False,False,2025-11-01
+P009,New Cairo Skyline Hotel,Hotel,Cairo,"5 Teseen St, Fifth Settlement",30.007,31.43,4.5,True,True,True,True,True,True,True,2025-11-08
+P010,Maadi Art House Cinema,Cinema,Cairo,"22 Road 9, Maadi",29.959,31.26,3.9,True,True,False,False,False,False,True,2025-11-15
+P011,Capital Technical University,University,Cairo,"1 University Avenue, Shorouk City",30.125,31.6,4.2,True,True,True,True,True,False,True,2025-11-22
+P012,Sakakini Corner Cafe,Cafe,Cairo,"14 El Sakakini St, Sakakini",30.08,31.26,3.7,False,True,False,False,False,False,False,2025-12-03
+P013,Haram Terrace Restaurant,Restaurant,Giza,"100 Al Haram St, Giza",29.999,31.165,4.0,True,False,False,True,True,False,True,2025-12-10
+P014,Dokki Medical Center,Hospital,Giza,"33 Mosaddak St, Dokki",30.039,31.212,4.3,True,True,True,True,False,True,True,2025-12-17
+P015,Mohandessin Mall,Shopping Mall,Giza,"27 Gameat El Dowal St, Mohandessin",30.056,31.2,4.1,True,True,True,True,True,False,True,2026-01-05
+P016,Orman Green Park,Park,Giza,"Orman Garden Area, Giza",30.029,31.213,4.5,True,True,False,False,False,False,True,2026-01-12
+P017,Faisal Learning Library,Library,Giza,"9 Faisal St, Faisal",29.995,31.17,3.8,False,True,False,False,False,True,False,2026-01-19
+P018,Sheikh Zayed Grand Hotel,Hotel,Giza,"Beverly Hills District, Sheikh Zayed City",30.02,30.97,4.6,True,True,True,True,True,True,True,2026-01-26
+P019,Corniche Seafood Restaurant,Restaurant,Alexandria,"El Corniche St, Bahary",31.207,29.885,4.4,True,True,False,True,False,False,True,2026-02-02
+P020,Stanley Bay Cafe,Cafe,Alexandria,"Stanley Bridge Road, Stanley",31.235,29.95,4.2,False,True,False,False,False,False,False,2026-02-09
+P021,Alexandria Maritime Museum,Museum,Alexandria,"12 El Shalalat St, Mansheya",31.199,29.897,4.5,True,True,True,True,False,True,True,2026-02-16
+P022,Smouha Medical Hospital,Hospital,Alexandria,"Smouha Boulevard, Smouha",31.215,29.942,4.2,True,True,True,True,True,False,True,2026-02-23
+P023,Sidi Gaber Transit Hub,Transport Station,Alexandria,"Sidi Gaber Square, Sidi Gaber",31.22,29.944,3.5,False,True,True,False,False,False,False,2026-03-02
+P024,Montaza Seaside Park,Park,Alexandria,"Montaza District, Montaza",31.288,30.018,4.7,True,True,False,True,True,False,True,2026-03-09
+P025,Delta Heritage Library,Library,Mansoura,"El Gomhoria St, Mansoura",31.0409,31.3785,4.0,True,True,False,True,False,True,True,2026-03-16
+P026,Mansoura Riverside Cafe,Cafe,Mansoura,"Riverside Corniche, Mansoura",31.038,31.39,3.9,True,False,False,False,False,False,True,2026-03-23
+P027,Mansoura Teaching Hospital,Hospital,Mansoura,"El Gamaa St, Mansoura",31.041,31.355,4.3,True,True,True,True,True,True,True,2026-03-30
+P028,Tanta Central Mall,Shopping Mall,Tanta,"El Geish St, Tanta",30.7865,31.0004,3.9,True,True,True,False,False,False,True,2026-04-06
+P029,Gharbia Cinema Hall,Cinema,Tanta,"El Bahr St, Tanta",30.788,31.003,3.6,False,False,False,False,False,False,True,2026-04-13
+P030,Gharbia Technical University,University,Tanta,"University District, Tanta",30.795,31.01,4.1,True,True,True,True,True,False,True,2026-04-20
+P031,El Salam,Hospital,Cairo,El Sadat,30.04444,31.4578,0.7,True,False,True,False,False,False,True,2026-10-16
